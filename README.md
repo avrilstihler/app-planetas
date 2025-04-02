@@ -49,16 +49,17 @@
 ## 📸 Galeria  
 
 ### 🏠 Tela Inicial  
-![Tela Inicial](images/tela_inicial.png)  
+![Tela Inicial](images/tela_inicial.jpg)  
 
 ### ➕ Cadastro de Planetas  
-![Tela de Cadastro](images/tela_cadastro.png)  
+![Tela de Cadastro](images/tela_cadastro.jpg)    
 
 ### 📝 Edição de Planetas  
-![Tela de Edição](images/tela_edicao.png)  
+![Tela de Edição](images/tela_edicao.jpg)  
 
-### 🗑️ Exclusão de Planetas  
-![Exclusão](images/tela_exclusao.png)  
+### 💾 Dados Salvos  
+![Dados Salvos](images/tela_dados_salvos.jpg)  
+
 
 ---
 
