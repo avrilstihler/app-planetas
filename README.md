@@ -48,9 +48,16 @@
 
 ## 📸 Galeria de Imagens
 
-| 🏠 Tela Inicial  | ➕ Cadastro de Planetas | 📝 Edição de Planetas | 💾 Dados Salvos |
-|-----------------|----------------------|----------------|----------------|
-| <img src="images/tela_inicial.jpeg" width="250"> | <img src="images/tela_cadastro.jpeg" width="250"> |<img src="images/tela_edicao.jpeg" width="250"> | <img src="images/tela_dados_salvos.jpeg" width="250"> |
+
+| 🏠 Tela Inicial  | ➕ Cadastro de Planetas |
+|-----------------|----------------------|
+| <img src="images/tela_inicial.jpeg" width="300"> | <img src="images/tela_cadastro.jpeg" width="300"> |
+
+
+
+| 📝 Edição de Planetas | 💾 Dados Salvos |
+|-----------------|----------------|
+| <img src="images/tela_edicao.jpeg" width="300"> | <img src="images/tela_dados_salvos.jpeg" width="300"> |
 
 ---
 
